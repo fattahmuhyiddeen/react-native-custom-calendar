@@ -1,5 +1,5 @@
 {
-  "name": "react-native-simple-calendar",
+  "name": "react-native-custom-calendar",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fattahmuhyiddeen/react-native-simple-calendar.git"
+    "url": "git+https://github.com/fattahmuhyiddeen/react-native-custom-calendar.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fattahmuhyiddeen/react-native-simple-calendar/issues"
+    "url": "https://github.com/fattahmuhyiddeen/react-native-custom-calendar/issues"
   },
-  "homepage": "https://github.com/fattahmuhyiddeen/react-native-simple-calendar#readme"
+  "homepage": "https://github.com/fattahmuhyiddeen/react-native-custom-calendar#readme"
 }
